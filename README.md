@@ -10,7 +10,7 @@ The goal of this project is to perform an extract, transform and load (ETL) proc
 2. Load CSV tabular data into Spark DataFrames
 3. Save DF data to Parquet files
 4. Write query to determine average age
-5. Write query to determine score at the 75th percentile
+5. Write query to determine age at the 75th percentile
 
 # Approach
 1. Fork this repo
